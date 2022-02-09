@@ -1,0 +1,16 @@
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\Desafio_4_POO.exe
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\Desafio_4_POO.deps.json
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\Desafio_4_POO.runtimeconfig.json
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\Desafio_4_POO.runtimeconfig.dev.json
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\Desafio_4_POO.dll
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\ref\Desafio_4_POO.dll
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\bin\Debug\net5.0\Desafio_4_POO.pdb
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.csproj.AssemblyReference.cache
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.GeneratedMSBuildEditorConfig.editorconfig
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.AssemblyInfoInputs.cache
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.AssemblyInfo.cs
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.csproj.CoreCompileInputs.cache
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.dll
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\ref\Desafio_4_POO.dll
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.pdb
+J:\GFT\Desafio_4_POO\Desafio_4_POO\Desafio_4_POO\obj\Debug\net5.0\Desafio_4_POO.genruntimeconfig.cache
